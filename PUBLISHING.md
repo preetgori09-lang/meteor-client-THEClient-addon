@@ -16,11 +16,11 @@ Run these from the **parent** folder (the one containing `THEClient`):
 
 ```bash
 cd THEClient
-git init -b master
+git init -b main
 git add .
 git commit -m "THE Client: redesigned GUI, addon system and Addons tab (based on Meteor Client)"
 git remote add origin https://github.com/preetgori09-lang/meteor-client-THEClient-addon.git
-git push -u origin master
+git push -u origin main
 ```
 
 > [!NOTE]
