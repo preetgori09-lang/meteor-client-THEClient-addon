@@ -31,7 +31,7 @@ git push -u origin main
 
 1. Open the repo's **Actions** tab
 2. The *Build* workflow starts automatically on push
-3. When it finishes (a few minutes), the jar is under **Artifacts** as `THE-Client-master-<n>`
+3. When it finishes (a few minutes), the jar is under **Artifacts** as `THE-Client-main-<n>`
 
 ## 4. Cut a release
 

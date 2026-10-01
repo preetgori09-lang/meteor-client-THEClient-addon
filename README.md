@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/preetgori09-lang/meteor-client-THEClient-addon/actions/workflows/build.yml"><img src="https://img.shields.io/github/actions/workflow/status/preetgori09-lang/meteor-client-THEClient-addon/build.yml?branch=main&label=build&logo=github" alt="Build status"></a>
   <img src="https://img.shields.io/badge/Minecraft-1.21.11-3858a6" alt="Minecraft 1.21.11">
-  <a href="https://github.com/preetgori09-lang/meteor-client-THEClient-addon/blob/master/LICENSE"><img src="https://img.shields.io/github/license/preetgori09-lang/meteor-client-THEClient-addon" alt="License"></a>
+  <a href="https://github.com/preetgori09-lang/meteor-client-THEClient-addon/blob/main/LICENSE"><img src="https://img.shields.io/github/license/preetgori09-lang/meteor-client-THEClient-addon" alt="License"></a>
   <a href="https://github.com/MeteorDevelopment/meteor-client"><img src="https://img.shields.io/badge/fork_of-Meteor_Client-8d5bd0" alt="Fork of Meteor Client"></a>
 </p>
 
